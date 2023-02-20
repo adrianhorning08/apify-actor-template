@@ -5,7 +5,15 @@
     "overview": {
       "title": "Overview",
       "transformation": {},
-      "display": {}
+      "display": {
+        "component": "table",
+        "properties": {
+          "firstNumber": {
+            "label": "First Number",
+            "format": "number"
+          }
+        }
+      }
     }
   }
 }
