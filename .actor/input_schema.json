@@ -4,18 +4,22 @@
   "type": "object",
   "schemaVersion": 1,
   "properties": {
-    "firstNumber": {
-      "title": "First Number",
-      "type": "integer",
-      "description": "number 1",
-      "editor": "number"
+    "search": {
+      "title": "Search",
+      "type": "string",
+      "editor": "textarea",
+      "prefill": "Los Angeles",
+      "description": "Query to search on Zillow.com"
     },
-    "secondNumber": {
-      "title": "Second Number",
-      "type": "integer",
-      "description": "number 2",
-      "editor": "number"
+    "type": {
+      "title": "Type",
+      "type": "string",
+      "description": "Property for sale/rent",
+      "default": "all",
+      "prefill": "all",
+      "enum": ["all", "sale", "fsbo", "rent", "sold"],
+      "enumTitles": ["All", "For sale", "For sale by owner", "For rent", "Sold"]
     }
   },
-  "required": ["firstNumber", "secondNumber"]
+  "required": ["search", "type"]
 }
