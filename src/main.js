@@ -6,7 +6,7 @@ await Actor.init();
 console.log("Hello world!");
 
 await Actor.pushData({
-  firstNumebr: 1,
+  firstNumber: 1,
   secondNumber: 2,
 });
 
