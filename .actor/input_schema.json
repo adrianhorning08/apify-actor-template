@@ -1,0 +1,21 @@
+{
+  "title": "Testing",
+  "description": "Description",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "firstNumber": {
+      "title": "First Number",
+      "type": "integer",
+      "description": "number 1",
+      "editor": "number"
+    },
+    "secondNumber": {
+      "title": "Second Number",
+      "type": "integer",
+      "description": "number 2",
+      "editor": "number"
+    }
+  },
+  "required": ["firstNumber", "secondNumber"]
+}
