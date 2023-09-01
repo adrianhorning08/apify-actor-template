@@ -16,7 +16,7 @@
 
 ### Support
 
-- Me: (https://thewebscrapingguy.com)[https://thewebscrapingguy.com]
+- Me: [https://thewebscrapingguy.com](https://thewebscrapingguy.com)
 - [Report an issue](https://console.apify.com/actors/{actorId}#/issues)
 - [Share your experience](https://console.apify.com/actors/{actorId}#/issues)
 - Request customization: adrian@thewebscrapinguy.com
