@@ -1,5 +1,8 @@
 ### About This Actor
 
+Input help:
+https://docs.apify.com/platform/actors/development/actor-definition/input-schema/specification/v1
+
 #### Features
 
 ✅

@@ -7,11 +7,13 @@
     "firstNumber": {
       "title": "First Number",
       "type": "integer",
+      "prefill": "1",
       "description": "number 1",
       "editor": "number"
     },
     "secondNumber": {
       "title": "Second Number",
+      "prefill": "1",
       "type": "integer",
       "description": "number 2",
       "editor": "number"
