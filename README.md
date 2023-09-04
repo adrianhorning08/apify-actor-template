@@ -5,9 +5,9 @@ https://docs.apify.com/platform/actors/development/actor-definition/input-schema
 
 #### Features
 
-✅
-✅
-✅
+- ✅
+- ✅
+- ✅
 
 ### Example Output
 
